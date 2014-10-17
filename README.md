@@ -1,8 +1,9 @@
 fj-ethics
 =========
 
-Case studies involving the ethical use of open data in modern digital journalism
+## Case studies involving the ethical use of open data in modern digital journalism
 
+Public records are all around us. We have the tech to make these records perfectly searchable and indexable. But should we? Journalists and developers needs to consider the ethical ramifications the publication of open records can wreak on individuals and organizations now that it's effectively impossible to completely redact after publishing. This workshop aims to create thoughtful case studies for professionals and students to consider when there is legal clarity yet ethical uncertainty with publishing public records data.
 
 ## Possible topics
 
