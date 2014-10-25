@@ -28,3 +28,11 @@ Public records are all around us. We have the tech to make these records perfect
 * court dump vs bylined stories 
 * takedown? redact? 
 * stop crawling ?
+
+### faculty salary data
+
+### property taxes
+
+
+
+
